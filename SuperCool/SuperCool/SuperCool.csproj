@@ -70,6 +70,11 @@
   <ItemGroup>
     <None Include="packages.config" />
     <Content Include="Scripts\jquery-1.9.1.min.map" />
+    <Content Include="TimStuff\Lessions\scripts\bountyHunter.js.map" />
+    <Content Include="TimStuff\Lessions\scripts\demo.js.map" />
+    <Content Include="TimStuff\Lessions\scripts\demo2.js.map" />
+    <Content Include="TimStuff\Lessions\scripts\models\person.js.map" />
+    <Content Include="TimStuff\Lessions\scripts\TypeScriptDemos.js.map" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -98,6 +103,22 @@
     <Content Include="Scripts\jquery-1.9.1.js" />
     <Content Include="Scripts\jquery-1.9.1.min.js" />
     <Content Include="styles\css.css" />
+    <Content Include="TimStuff\Lessions\BasicsOfCSS.html" />
+    <Content Include="TimStuff\Lessions\BasicsOfHTML.html" />
+    <Content Include="TimStuff\Lessions\basicsOfJavaScriptTypeScript.html" />
+    <Content Include="TimStuff\Lessions\bhContract.html" />
+    <Content Include="TimStuff\Lessions\bhEquipGear.html" />
+    <Content Include="TimStuff\Lessions\bhIndex.html" />
+    <Content Include="TimStuff\Lessions\bhPurchaseItems.html" />
+    <Content Include="TimStuff\Lessions\demo2.html" />
+    <Content Include="TimStuff\Lessions\images\Snake-Plissken.jpg" />
+    <Content Include="TimStuff\Lessions\index.html" />
+    <Content Include="TimStuff\Lessions\scripts\bountyHunter.js" />
+    <Content Include="TimStuff\Lessions\scripts\demo.js" />
+    <Content Include="TimStuff\Lessions\scripts\demo2.js" />
+    <Content Include="TimStuff\Lessions\scripts\JavaScriptDemos.js" />
+    <Content Include="TimStuff\Lessions\scripts\models\person.js" />
+    <Content Include="TimStuff\Lessions\scripts\TypeScriptDemos.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -109,6 +130,11 @@
   </ItemGroup>
   <ItemGroup>
     <TypeScriptCompile Include="Scripts\app\pageOne\pageOne.ts" />
+    <TypeScriptCompile Include="TimStuff\Lessions\scripts\bountyHunter.ts" />
+    <TypeScriptCompile Include="TimStuff\Lessions\scripts\demo.ts" />
+    <TypeScriptCompile Include="TimStuff\Lessions\scripts\demo2.ts" />
+    <TypeScriptCompile Include="TimStuff\Lessions\scripts\models\person.ts" />
+    <TypeScriptCompile Include="TimStuff\Lessions\scripts\TypeScriptDemos.ts" />
   </ItemGroup>
   <ItemGroup>
     <Service Include="{4A0DDDB5-7A95-4FBF-97CC-616D07737A77}" />
